@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/jha-shankar0712/Leet-Solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/jha-shankar0712/Leet-Solution/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/jha-shankar0712/Leet-Solution/tree/master/0079-word-search) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jha-shankar0712/Leet-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/jha-shankar0712/Leet-Solution/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/jha-shankar0712/Leet-Solution/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/jha-shankar0712/Leet-Solution/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jha-shankar0712/Leet-Solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
